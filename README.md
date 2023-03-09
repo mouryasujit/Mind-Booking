@@ -54,4 +54,4 @@
  ![login page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/login2.png?raw=true)
 ## Authors
 
-- [Sujit Mourya](https://github.com/mouryasujit)
+- [SujitKumar Mourya](https://github.com/mouryasujit)
