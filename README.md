@@ -28,29 +28,29 @@
 
 
 ## Screenshots
-- This how frontEnd look like
+## This how frontEnd look like
 ![Home page](https://github.com/mouryasujit/Mind-Booking/blob/master/Screenshot%20(10).png?raw=true)
 
 ![hotel page](https://github.com/mouryasujit/Mind-Booking/blob/master/Screenshot%20(9).png?raw=true)
 
 
-- When you choose Destination
+## When you choose Destination
  ![Home page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/whenyouselect.png?raw=true)
  
  
- - Hotel price according to nights
+## Hotel price according to nights
  ![room page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/hoteldesc.png?raw=true)
  
  
- - Image slider
+## Image slider
  ![room page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/hotelslider.png?raw=true)
  
  
- - Room booking page
+## Room booking page
  ![hotel page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/Picture1.png?raw=true)
  
  
- - Login page
+## Login page
  ![login page](https://github.com/mouryasujit/Mind-Booking/blob/master/admin/public/login2.png?raw=true)
 ## Authors
 
